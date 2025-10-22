@@ -1,4 +1,4 @@
-Hello Git
+Hello from GitHub
 branch change
 GitHubで編集しました
 GitHubで追加した行
